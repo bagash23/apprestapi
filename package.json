@@ -1,0 +1,23 @@
+{
+  "name": "restapi",
+  "version": "1.0.0",
+  "description": "aplikasi rest api berita",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bagash23/apprestapi.git"
+  },
+  "keywords": [
+    "rest",
+    "api"
+  ],
+  "author": "bagas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bagash23/apprestapi/issues"
+  },
+  "homepage": "https://github.com/bagash23/apprestapi#readme"
+}
